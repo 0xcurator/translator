@@ -1,0 +1,12 @@
+Sub Main()
+
+Dim a As Integer
+a=8
+If a>b Then
+ x = 4
+ y = a
+Else
+x = 0
+End If
+
+End Sub
